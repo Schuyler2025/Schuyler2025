@@ -4,13 +4,13 @@ Welcome to my GitHub! I'm a passionate mobile app developer who loves creating i
 
 ## 🛠️ Technologies & Tools
 - **Languages:** Dart, JavaScript
-- **Frameworks:** Flutter, React Native
+- **Frameworks:** Flutter, Node.js
 - **Tools:** Git, VS Code
 
 ## 🌱 Learning & Growth
 Currently, I'm diving deeper into:
 - **Advanced Flutter Development**
-- **Next.js**
+- **Node.js**
 
 ## 👨‍💻 About Me
 When I'm not coding, you might find me exploring new technologies, playing video games, or watching anime. I'm a proud tech enthusiast, always eager to learn and grow in the ever-evolving field of mobile development.
