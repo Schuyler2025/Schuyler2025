@@ -1,26 +1,15 @@
-# 👋 Hi, I'm Schuyler!
+# Hi, I'm Schuyler
 
-Welcome to my GitHub! I'm a passionate mobile app developer who loves creating intuitive and efficient applications. I'm always excited to bring ideas to life through code.
+Desktop/Web app developer specializing in Flutter and Node.js.
 
-## 🛠️ Technologies & Tools
-- **Languages:** Dart, JavaScript
-- **Frameworks:** Flutter, Node.js
-- **Tools:** Git, VS Code
+## Skills
 
-## 🌱 Learning & Growth
-Currently, I'm diving deeper into:
-- **Advanced Flutter Development**
-- **Node.js**
+- **Languages:** Python, JavaScript
+- **Frameworks:** React, Node.js
 
-## 👨‍💻 About Me
-When I'm not coding, you might find me exploring new technologies, playing video games, or watching anime. I'm a proud tech enthusiast, always eager to learn and grow in the ever-evolving field of mobile development.
+## Contact
 
-## 📫 Get in Touch
-- **Email:** schuylerhu@gmail.com
-
-Looking forward to connecting and collaborating with like-minded developers!
-
-
+schuylerhu@gmail.com
 
 <!---
 Schuyler2025/Schuyler2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
