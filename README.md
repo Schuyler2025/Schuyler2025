@@ -1,6 +1,6 @@
 # Hi, I'm Schuyler
 
-Desktop/Web app developer specializing in Flutter and Node.js.
+Desktop/Web app developer specializing in React and Node.js.
 
 ## Skills
 
